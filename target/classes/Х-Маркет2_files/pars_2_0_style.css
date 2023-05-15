@@ -1,0 +1,164 @@
+#idDivParsersMini * {font-family: Tahoma, Geneva, sans-serif!important; font-size: 12px!important;}
+#idDivParsersMini{position: fixed!important; z-index: 2147483647!important; right: 0px!important; top: 0px; width: 360px!important; color: rgb(0, 0, 0)!important; background: rgb(255, 255, 255)!important; padding: 10px 0px!important; border: 1px solid rgb(182, 182, 182)!important; border-radius: 5px!important;}
+#idDivParsersMiniBlk_1{ padding: 0 20px}
+#idDivParsersMiniBlk_2{ padding: 0 20px}
+#idDivParsersMiniBlk_3{ padding: 0 20px}
+#idDivParsersMiniBlk_5{ padding: 0 20px}
+#idDivParsersMiniBlk_6{ padding: 0 20px}
+#idDivParsersMiniBlk_7{ padding: 0 20px}
+#idDivParsersMiniBlk_8{ padding: 0 20px}
+#idDivParsersMiniBlk_9{ padding: 0 20px}
+#idDivParsersMiniBlk_10{ padding: 0 20px}
+#bgParserFonNoJsCur{ position: fixed!important; width: 100%!important; z-index: 9999!important; height: 100%!important; top: 0px!important;}
+#idDivParsersMini #topParsersLinesInfo{ font-size: 12px!important; border-bottom: solid 1px #b6b6b6!important; padding-bottom: 5px!important; margin-bottom: 20px!important; text-align: left!important;}
+#idDivParsersMini #topParsersLinesInfo img#logoParsers{ vertical-align: middle!important; margin-right: 5px!important; width: 79px!important;; height: 33px!important;}
+#idDivParsersMini #topParsersLinesInfo #topParserNewPosBlk{cursor: move!important; margin-right: 10px!important;}
+#idDivParsersMini #topParsersLinesInfo #topParserNewPosBlk img {vertical-align: middle!important;margin-right: 5px!important; width: 9px!important;; height: 15px!important;}
+.selectorPArsText{ position: absolute!important; top: 12px!important; right: 20px!important;}
+#switcherParsSelect {display: none!important;}
+.switcherParsSelectLab span {width: 40px!important; height: 20px!important; overflow: hidden!important; background-position: 0 -20px!important; background-image: url(img/rightCeak.png); display: inline-block!important; cursor: pointer!important; position: relative!important; top: 5px!important; margin-left: 5px!important;}
+.switcherParsSelectLab span.cur {background-position: 0 0px!important;}
+.switcherParsSelectLab{ display: inline-block}
+#idDivParsersMini #idDivParsersMiniBlk_10 {margin-top: 10px!important; text-align: center!important;}
+#idDivParsersMini #idDivParsersMiniBlk_10 a{ text-decoration: none!important; font-size: 12px!important; font-weight: bold!important; color: #0065bd!important;}
+#idDivParsersMini #idDivParsersMiniBlk_10 a:hover{ color: #4099ed!important;}
+#idDivParsersMini #idDivParsersMiniBlk_10 img{ vertical-align: middle!important; margin-right: 10px!important;}
+#idDivParsersMiniBlk_9 #bigLoardrPars{ text-align: center}
+#idDivParsersMiniBlk_6 { overflow: hidden}
+#idDivParsersMini .parserLoginReg{ overflow: hidden}
+#idDivParsersMini .parserLoginReg .parserRegBtn{ float: left; width: 48%; border-radius: 5px; background-color: #39a95d; color: #fff; font-size: 14px; text-align: center; padding: 5px 0; cursor: pointer}
+#idDivParsersMini .parserLoginReg .parserLoginBtn{ float: right; width: 48%; border-radius: 5px; background-color: #3e3e3e; color: #fff; font-size: 14px; text-align: center; padding: 5px 0; cursor: pointer}
+#idDivParsersMini .parserLoginReg .parserRegBtn:hover{ background-color: #157133}
+#idDivParsersMini .parserLoginReg .parserLoginBtn:hover{ background-color: #727272}
+#idDivParsersMini .parserNewAddPagesFree{ color: #a9a9a9; clear: both; margin-top: 5px; float: left; width: 48%; text-align: center; font-size: 10px!important; padding-bottom: 5px!important;}
+#idDivParsersMini .parserGoHome{font-size: 20px!important; margin-bottom: 10px;}
+#idDivParsersMini .goAllParserList{cursor: pointer; margin-right: 15px; vertical-align: middle;}
+#idDivParsersMini #parsersLoginInfo, #idDivParsersMini #parsersPassInfo, #idDivParsersMini #parsersCompanyInfo{background-color: #fff!important;border: none;border-bottom: solid 1px #39a95d;width: 99%;margin-bottom: 10px;padding: 5px 0;}
+#idDivParsersMini #loginregParsersBtn{background-color: #39a95d; color: #fff; text-align: center; float: right; width: 48%; border-radius: 5px; padding: 5px 0; font-size: 14px;cursor: pointer;}
+#idDivParsersMini #loginregParsersBtn:hover{background-color: #197737;}
+#idDivParsersMini .loginregParsersBtnDiv #loginregParsersBtn{overflow: hidden;clear: both;}
+#idDivParsersMini input.error, #idDivParsersMini .inpytItemLines input.inpytParserInforms.error{ border-bottom: solid 1px red!important; font-weight: normal!important; color: red!important;}
+#idDivParsersMini #errorText{ color: red!important; font-size: 10px!important; margin-bottom: 10px!important;}
+#idDivParsersMini .exitParser{margin: 0px; color: #000; cursor: pointer; font-size: 10px!important; text-align: center!important; margin-bottom: 10px!important;}
+#idDivParsersMini .exitParser:hover{color: #ff0000}
+#idDivParsersMini .refreshPayPag {margin-bottom: 20px!important;}
+#idDivParsersMini .refreshPayPag span{border: solid 1px #64bf80; padding: 5px; display: block; text-align: center; border-radius: 5px; color: #64bf80; cursor: pointer;}
+#idDivParsersMini .addNewFieldBlk {margin: 15px 0; overflow: hidden}
+#idDivParsersMini .addNewField {color: #38a85c; cursor: pointer;}
+#idDivParsersMini .startParserBlk {margin-bottom: 15px; overflow: hidden;}
+#idDivParsersMini #addPageFreeSite {width: 65%; text-align: right; color: #b6b6b6; display: block; float: left; margin-top: 10px; }
+#idDivParsersMini .startParserBlk #startParser {text-align: center; color: #fff; background-color: #38a95b; border-radius: 5px; padding: 7px 0px; width: 30%; display: block; float: right; cursor: pointer; font-weight: bold;}
+#idDivParsersMini .startParserBlk #startParser:hover{ background-color: #157133}
+#idDivParsersMini .addNewField:hover{ color: #157133}
+#idDivParsersMini .inpytItemLines {overflow: hidden;}
+#idDivParsersMini .inpytItemLines .inpytItemLinesTopInp {overflow: hidden;}
+#idDivParsersMini .inpytItemLines input.inpytParserInforms {width: 85%!important; background-color: #fff!important; border: none!important; border-bottom: solid 1px #39a95d!important; margin-bottom: 10px!important; padding: 5px 0!important; float: left!important; border-radius: 0px!important; line-height: 1em!important; color: #000!important; }
+#idDivParsersMini .inpytItemLines .inpytItemLinesTopInp span {float: right; cursor: pointer; margin-top: 6px; width: 20px; height: 20px; background-image: url(img/Ico_select.png);}
+#idDivParsersMini .inpytItemLines .inpytItemLinesTopInp span:hover {background-image: url(img/Ico_select_hover.png); }
+#idDivParsersMini .inpytItemLines.cur .inpytItemLinesTopInp span {background-image: url(img/Ico_select_act.png);}
+#idDivParsersMiniBlk_2{ overflow: auto; padding-right: 15px; position: relative}
+#idDivParsersMiniBlk_2::-webkit-scrollbar {width: 5px;}
+#idDivParsersMiniBlk_2::-webkit-scrollbar-track { -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); -webkit-border-radius: 10px; border-radius: 10px;}
+#idDivParsersMiniBlk_2::-webkit-scrollbar-thumb { -webkit-border-radius: 10px; border-radius: 10px; background: rgba(182,182,182,0.8); -webkit-box-shadow: inset 0 0 6px rgba(182,182,182,0.5); }
+#idDivParsersMiniBlk_2::-webkit-scrollbar-thumb:window-inactive {background: rgba(182,182,182,0.4); }
+.showhoverParserElement{background-color: rgba(56, 168, 92, 0.6);}
+.showhoverParserElement_Cur{background-color: rgba(56, 168, 92, 0.6);}
+.showhoverParserElement_1{background-color: #7af5fa}
+.showhoverParserElement_Cur_1{background-color: #7af5fa}
+.showhoverParserElement_2{background-color: #c1d56f}
+.showhoverParserElement_Cur_2{background-color: #c1d56f}
+.showhoverParserElement_3{background-color: #cdafee}
+.showhoverParserElement_Cur_3{background-color: #cdafee}
+.showhoverParserElement_4{background-color: #e597ce}
+.showhoverParserElement_Cur_4{background-color: #e597ce}
+.showhoverParserElement_5{background-color: #97e5ad}
+.showhoverParserElement_Cur_5{background-color: #97e5ad}
+.showhoverParserElement_6{background-color: #c8e597}
+.showhoverParserElement_Cur_6{background-color: #c8e597}
+.showhoverParserElement_7{background-color: #faa5a5}
+.showhoverParserElement_Cur_7{background-color: #faa5a5}
+.showhoverParserElement_8{background-color: #e7fc58}
+.showhoverParserElement_Cur_8{background-color: #e7fc58}
+.showhoverParserElement_9{background-color: #fcd758}
+.showhoverParserElement_Cur_9{background-color: #fcd758}
+.showhoverParserElement_10{background-color: #ffbbe9}
+.showhoverParserElement_Cur_10{background-color: #ffbbe9}
+#idDivParsersMini .addNewCountBlk{ margin-bottom: 10px; overflow: hidden}
+#idDivParsersMini .addNewCountBlk input, #idDivParsersMini .addNewCountBlk span{ float: right}
+#idDivParsersMini .addNewCountBlk span{ color: #b6b6b6; margin-right: 10px}
+#idDivParsersMini .addNewCountBlk input{ vertical-align: middle; border: none; border-bottom: solid 1px #38a85c; width: 70px}
+.selectParamTagShowBg{position: absolute; top: 10px; right: 0px; width: 10px; height: 10px;}
+#idDivParsersMiniBlk_3{ overflow: hidden}
+#idDivParsersMiniBlk_4{ overflow: hidden}
+#idDivParsersMini .dopResInfo{ text-align: left; overflow: hidden; height: 12px; line-height: 12px; margin-bottom: 5px}
+#idDivParsersMini .countResAllDop{ text-align: center; color: #38a85c}
+#idDivParsersMini .addNewFieldBlk{margin: 15px 0; text-align: left}
+#idDivParsersMini .addNewField{ color: #38a85c; cursor: pointer; font-size:12px; text-align: left}
+#idDivParsersMini .addNewField:hover{ color: #0a5411}
+#idDivParsersMini  .startParserBlk{ margin-bottom: 15px; overflow: hidden}
+#idDivParsersMini .startParserBlk #startParser{ text-align: center; color: #fff; background-color: #38a95b; border-radius: 5px; padding: 7px 0px; width: 30%; display: block; float: right; cursor: pointer; font-weight: bold}
+#idDivParsersMini .startParserBlk #startParser:hover{background-color: #64bf80}
+#idDivParsersMini .startParserBlk #parserStatusInfo{ float: left; text-align: right; font-size: 12px; margin-top: 0px; display: block; width: 60%;}
+#idDivParsersMini .startParserBlk #parserStatusInfo.cur{ width: 100%; overflow: hidden}
+#idDivParsersMini #addPageFreeSite{width: 65%; text-align: right; font-size: 12px; color: #b6b6b6; display: block; float: left; margin-top: 10px}
+#idDivParsersMini .startParserBlk #stopParser {text-align: center; color: #fff; background-color: #c53d3d; border-radius: 5px; padding: 7px 0px; width: 30%; display: block; float: right; cursor: pointer; font-weight: bold; }
+#parserLoderStatus {position: absolute;margin: 8px 0 0 8px;}
+#processedPagesCountBlk {position: absolute; color: #9f9f9f; right: 147px; }
+#idDivParsersMini #restartParser {color: red; float: right; margin-bottom: 10px; cursor: pointer; }
+#idDivParsersMini #saveParverLists {overflow: hidden; margin: 5px 0 15px 0; clear: both; }
+#idDivParsersMini #saveParverLists span {float: left;color: #fc2f21; margin-top: 7px; }
+#idDivParsersMini #saveParverLists div {float: right; overflow: hidden; }
+#idDivParsersMini #saveParverLists div div {border-radius: 5px; background-color: #39a95d; color: #fff; text-align: center; padding: 7px 20px; cursor: pointer; }
+#idDivParsersMini .selectTagParam{ clear: both; margin: 0 0 10px 0; display: none; text-align: left}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan1{ background-image: url(img/parsIcoSprite.png?v=3); background-repeat: no-repeat; width: 20px; height: 20px; background-position: 0px 0px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan1:hover,#idDivParsersMini .selectTagParam span.selectTagParamSpan1.cur{background-position: -20px 0px;}
+#idDivParsersMini .selectTagParam span.selectTableParamSpan{background-image: url(img/parsIcoSprite.png?v=3); background-repeat: no-repeat; width: 20px; height: 20px; background-position: -40px 0px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectTableParamSpan:hover{background-position: -40px -20px;}
+#idDivParsersMini .selectTagParam span.selectTableParamSpan.cur{background-position: -40px -20px;}
+#idDivParsersMini .selectTagParam span.selectGroupParamSpan{background-image: url(img/parsIcoSprite.png?v=3); background-repeat: no-repeat; width: 20px; height: 20px; background-position: -100px 0px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectGroupParamSpan:hover{background-position: -100px -20px;}
+#idDivParsersMini .selectTagParam span.selectGroupParamSpan.cur{background-position: -100px -20px;}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan2{ background-image: url(img/parsIcoSprite.png?v=3); background-repeat: no-repeat; width: 20px; height: 20px; background-position: -20px -20px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan2:hover, #idDivParsersMini .selectTagParam span.selectTagParamSpan2.cur{background-position: 0px -20px;}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan3{ background-image: url(img/parsIcoSprite.png?v=3); background-repeat: no-repeat; width: 20px; height: 20px; background-position: -60px 0px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan3:hover, #idDivParsersMini .selectTagParam span.selectTagParamSpan3.cur{background-position: -60px -20px;}
+#idDivParsersMini .shareForms{ overflow: hidden; margin-bottom: 20px; text-align: center}
+#idDivParsersMini .shareForms .shareFormsF{ width: 36%; margin-right: 3%; border: solid 1px #24599b; border-radius: 3px; color: #24599b; font-size: 11px; padding: 5px 5%; cursor: pointer; display: inline-block; text-decoration: none;    box-sizing: content-box;}
+#idDivParsersMini .shareForms .shareFormsF:hover{ background-color: #ebebeb}
+#idDivParsersMini .shareForms .shareFormsF img{ vertical-align: sub; margin-right: 5px}
+
+#idDivParsersMini .shareForms .shareFormsFPlus{width: 46%; margin-right: 4%; color: #a9a9a9; font-size: 10px; display: inline-block; margin-top: 5px}
+#idDivParsersMini .shareForms .shareFormsTPlus{width: 46%; margin-left: 4%; color: #a9a9a9; font-size: 10px; display: inline-block; margin-top: 5px}
+
+#idDivParsersMini .shareForms .shareFormsT{ width: 36%; margin-left: 3%; border: solid 1px #00aef0; border-radius: 3px; color: #00aef0; font-size: 11px; padding: 5px 5%; cursor: pointer; display: inline-block; text-decoration: none;    box-sizing: content-box;}
+#idDivParsersMini .shareForms .shareFormsT:hover{ background-color: #ebebeb}
+#idDivParsersMini .shareForms .shareFormsT img{ vertical-align: sub; margin-right: 5px}
+
+#idDivParsersMini .selectTagParam span.selectTagParamSpan4{ background-image: url(img/parsIcoSprite.png?v=2); background-repeat: no-repeat; width: 20px; height: 20px; background-position: -80px 0px; cursor: pointer; display: inline-block; cursor: pointer; margin-right: 10px}
+#idDivParsersMini .selectTagParam span.selectTagParamSpan4:hover, #idDivParsersMini .selectTagParam span.selectTagParamSpan4.cur{background-position: -80px -20px;}
+
+#idDivParsersMini #startparseXpath{background-image: url(img/startParsePathIco.png); background-repeat: no-repeat; width: 20px; height: 20px; float: right; cursor: pointer}
+
+#idDivParsersMini .selectParamTag{ background-image: url(img/parsIcoSprite.png?v=2); background-repeat: no-repeat; width: 10px; height: 10px; background-position: -10px -40px; position: absolute; top: 10px; right: 15px; cursor: pointer}
+#idDivParsersMini .selectParamTag:hover{ background-position: 0px -40px;}
+#idDivParsersMini .posResBlk{ position: relative}
+#idDivParsersMini .showDopPunktsPars{ border: solid 1px #b6b6b6; clear: both; width: 72%; position: absolute; z-index: 2; margin-top: 24px; background-color: #fff; display: none; max-height: 150px; overflow: auto}
+#idDivParsersMini .showDopPunktsPars div{ padding: 5px 10px; cursor: pointer}
+#idDivParsersMini .showDopPunktsPars div span{ background: none!important; float: none!important; width: auto!important; height: auto!important; margin: 0px!important; color: #acacac}
+#idDivParsersMini .showDopPunktsPars div:hover{ background-color: #e2f0ff}
+#idDivParsersMini .inputAllLineIco:focus + div{display: block;}
+#idDivParsersMini .inputAllLineIco:hover + div{display: block;}
+#idDivParsersMini .showDopPunktsPars:hover{display: block}
+#idDivParsersMini .AdvancedSettingName{ float: right; color: #38a85c; cursor: pointer; font-size: 12px;}
+#idDivParsersMini .AdvancedSettingName:hover{ color: #157133}
+#idDivParsersMini .AdvancedSettingBlk{ background-color: #f0f0f0; padding: 20px; margin-bottom: 25px; display: none}
+#idDivParsersMini .AddHiddenBlk{ padding: 0px 20px;}
+#idDivParsersMini .sufdex{ font-weight: bold; border-bottom: solid 1px #39a95d!important; margin-bottom: 10px}
+#idDivParsersMini .sffdex{ font-weight: bold; margin-bottom: 10px}
+#idDivParsersMini #sufdexTextarea{ border: none; resize: none; width: 100%; height: 45px; background-color: #f0f0f0; border-bottom: solid 1px #39a95d!important;; margin-bottom: 20px}
+#idDivParsersMini .sffdexForm{ overflow: hidden}
+#idDivParsersMini .sffdexForm select{ float: left; width: 45%; border: none; background-color: #f0f0f0; border-bottom: solid 1px #39a95d!important;}
+#idDivParsersMini .sffdexForm input{ float: right; width: 45%; border: none; background-color: #f0f0f0; border-bottom: solid 1px #39a95d!important;}
+.sffdexLimitPlan{ font-size: 12px; color: #e50000; font-weight: normal; text-align: center; margin-top: 10px}
+.sffdexLimitPlan a{font-size: 12px; color: #38a95d; font-weight: normal; text-decoration: none; }
+.sffdexLimitPlan a:hover{color: #13612d}

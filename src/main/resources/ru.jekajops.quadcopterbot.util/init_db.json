@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "DJI Mavic 3 Standard Version",
+      "price": 153740,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 2,
+      "name": "DJI Mavic 3 Fly More Combo",
+      "price": 195096,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 3,
+      "name": "DJI Mavic 3 Fly More Combo (DJI RC Pro)",
+      "price": 249800,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 4,
+      "name": "DJI Air 2S Standard Version ",
+      "price": 82311,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 5,
+      "name": "DJI Air 2S Fly More Combo",
+      "price": 103257,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 6,
+      "name": "DJI Mini 3 Pro (DJI RC-N1) Standard Version",
+      "price": 67270,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 7,
+      "name": "DJI Mini 3 Pro (DJI RC) RC With Screen",
+      "price": 78000,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 8,
+      "name": "DJI Avata Pro-View Combo Goggles 2",
+      "price": 111850,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    },
+    {
+      "id": 9,
+      "name": "DJI Avata Fly Smart Combo FPV Goggles V2",
+      "price": 91440,
+      "stocks": "1",
+      "photoUrl": "AgACAgIAAxkBAAM3Y17DPKtlofOA0acWwynxUvvfsFcAAmzGMRtCG_hKAqWqTPeIR80BAAMCAANzAAMqBA",
+      "category": "DJI"
+    }
+  ]
+}
+
+
